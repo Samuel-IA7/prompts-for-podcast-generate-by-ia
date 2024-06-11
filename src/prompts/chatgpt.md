@@ -20,7 +20,7 @@ O podcast vai falar sobre dicas e novidades sobre o mundo do backend e o que est
 
 - Não quero que o título contenha palavras em inglês
 - Não quero que utilize nenhuma das palavras nessa lista: python, programador
-- Não utilize a palavra backend no nome nem qualquer variação dela                                                       |
+- Não utilize a palavra backend no nome nem qualquer variação dela |
 | conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em backend cujo o nome é "O Código Secreto: Mistérios do Backend" e tem foco em backend,  com o público alvo de iniciantes em backend
 
 o formato do roteiro deve ser
